@@ -7,7 +7,7 @@ public class Booking {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int bookingId;
+    private int bookingId;	
 
     @Column(name = "customer_name", nullable = false)
     private String customerName;
