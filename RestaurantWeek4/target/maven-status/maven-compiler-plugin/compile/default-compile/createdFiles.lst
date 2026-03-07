@@ -1,0 +1,9 @@
+com/example/demo/RestaurantWeek4Application.class
+com/example/demo/controller/RestaurantController.class
+com/example/demo/model/Restaurant.class
+com/example/demo/service/RestaurantService.class
+com/example/demo/service/FoodItemService.class
+com/example/demo/repository/RestaurantRepository.class
+com/example/demo/repository/FoodItemRepository.class
+com/example/demo/controller/FoodItemController.class
+com/example/demo/model/FoodItem.class
